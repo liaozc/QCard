@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QCard.CSharp", "QCard.CSharp.csproj", "{4F39DE97-56D7-E270-63F8-249BE4DC1581}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F39DE97-56D7-E270-63F8-249BE4DC1581}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F39DE97-56D7-E270-63F8-249BE4DC1581}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F39DE97-56D7-E270-63F8-249BE4DC1581}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F39DE97-56D7-E270-63F8-249BE4DC1581}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
